@@ -4,7 +4,9 @@
   here are some screenshots of the websites 
 
  Landing Page:
-![s1](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/5fcf7286-dec7-42bc-b858-974467975373)
+ ![s1](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/87084b59-ebde-4316-a0a0-86f0a21536ac)
+
+
 
 services:
 ![s2](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/e9f22518-6229-4678-aba3-4834c808ec1a)
@@ -16,3 +18,8 @@ ratings:
 footer:
 
 ![s4](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/de58981c-2f2c-4d76-84b7-8d15cd4849ff)
+
+
+responsiveness Test :
+Navbar:
+
