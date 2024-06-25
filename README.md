@@ -23,3 +23,5 @@ footer:
 responsiveness Test :
 Navbar:
 
+![s5](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/cf986d23-4860-41bf-8062-387831a8d653)
+![s6](https://github.com/myCodeWithSADDY/Volt-tailwind-website/assets/169814170/197e98ff-543a-4243-8001-bcc4a4004e9a)
